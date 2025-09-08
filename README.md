@@ -1,1 +1,1 @@
-
+Excel tool with probabilistic modeling and sensitivity analysis to price single property leases and assess downside risk, simulating 1,000 dice roll scenarios to project P&L, probability of rent payments, and risk premium sensitivity
